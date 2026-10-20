@@ -1,0 +1,12 @@
+﻿{
+  "sun": {
+    "name": "浅色",
+    "system": "dark",
+    "apps": "light"
+  },
+  "moon": {
+    "name": "深色",
+    "system": "dark",
+    "apps": "dark"
+  }
+}

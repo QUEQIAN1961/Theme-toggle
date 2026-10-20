@@ -1,0 +1,13 @@
+# Shortcuts contain absolute paths; generate them locally.
+*.lnk
+
+# Runtime files
+*.pid
+*.log
+
+# Local editor and OS files
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
+.DS_Store
